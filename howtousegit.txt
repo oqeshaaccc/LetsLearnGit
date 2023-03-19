@@ -29,3 +29,8 @@ Pull changes from remote repository: If other team members have pushed changes t
 Backup your work: It's always a good idea to backup your work periodically to avoid any data loss or corruption. You can do this by creating a copy of your local repository folder and saving it to a secure location, such as an external hard drive or cloud storage service.
 
 }
+Hi there, its me Snoor. Thank you for adding this. I am happy to work togethere on this project here the steps what I did to work on Githup
+1. I openned my terminal on my PC change the dirctory to where on I want to work: cd directoryname
+2. git clone url of repo
+3. I open the text file and added these and save
+4. Then I checked the status of my repo: git status
