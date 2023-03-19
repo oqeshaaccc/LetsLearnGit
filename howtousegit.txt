@@ -3,8 +3,9 @@
 3- change username and email 
 
 	git config --global user.name "Your Name"
+	-- i named mine "thispc"
 	git config --global user.email "youremail@example.com"
-
+	-- i named mine "pencildrawingtalent@gmail.com"
 4- cd to the directory you want to work on
 5- git clone https://github.com/username/repo.git
 6- git status
