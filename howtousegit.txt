@@ -13,3 +13,19 @@
 8- git commit -m "commit message" 
 9- git push origin main
 10- this line is to see if after editing and pushing, it will edit the file that is already on github or it will make anew version of the file ... lets see :)
+11- git log -------> to see all the commits that were done
+12- to escape the log pager type q
+13- you can do git log --no-pager
+{some tips to do after pushing your work to main
+
+Double-check that your changes have been pushed: Before closing your terminal or Git client, make sure that your changes have been pushed to the remote repository. You can check this by running the command git log to see a list of all the commits you made on the branch, and checking that your latest commit is listed.
+
+Inform your team: If you're working on a team project, it's a good idea to let your team members know that you've pushed changes to the repository. This will help everyone stay on the same page and avoid any conflicts or issues.
+
+Close the issue (if applicable): If you were working on a specific issue or bug fix, make sure to close the issue or mark it as resolved in your issue tracker (such as GitHub Issues or JIRA). This will help your team keep track of the progress of the project and ensure that all tasks are completed.
+
+Pull changes from remote repository: If other team members have pushed changes to the remote repository while you were working, make sure to pull those changes into your local repository before you start working again. You can do this with the command git pull origin [branch name].
+
+Backup your work: It's always a good idea to backup your work periodically to avoid any data loss or corruption. You can do this by creating a copy of your local repository folder and saving it to a secure location, such as an external hard drive or cloud storage service.
+
+}
