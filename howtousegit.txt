@@ -37,6 +37,6 @@ Hi there, its me Snoor. Thank you for adding this. I am happy to work togethere 
 5. First, you need to initialize a local Git repository in your project directory using the command "git init".
 6. Add the files you want to track in your local Git repository using the command "git add ." (this will add all files in the directory to the staging area).After checking my work was ready to be added I used $git add --all
 7. Commit the changes to your local repository using the command "git commit -m 'commit message'".
-8. Then we need to connect local Git repository to a remote repository using the command "git remote add origin <remote repository URL>". 
 9. Finally, push the local repository content to the remote repository using the command "git push -u origin <branch name>". The -u option is used to set the upstream branch, which tells Git to remember the remote branch for future pushes.
-10. Creat a branch on remote repository and then push to that branch
+10. Create a branch on remote repository and then push to that branch
+11. This is should be updated time to time
